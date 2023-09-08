@@ -1,0 +1,2 @@
+# compfest-22
+Covid-19 Analysis. We conducted an investigation into the COVID-19 data in DKI Jakarta, while also developed a model capable of forecasting confirmed cases, holds great importance. Due to its status as the most densely populated province in Indonesia, DKI Jakarta demands significant attention since the COVID-19 virus tends to spread more quickly in densely populated regions. The anticipated outcome of this research is to provide valuable insights for guiding decisions related to easing health protocol measures.
